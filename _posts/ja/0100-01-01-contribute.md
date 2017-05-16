@@ -6,7 +6,7 @@ title: 貢献
 contributetitle: このガイドの改善にご協力ください！
 startwith: 参加方法
 startA: ご意見ご感想
-startB: ページを翻訳
+startB: ページを翻訳です
 startC: 誤訳の報告です
 startD: サイトをForkして改善
 nosearch: 'true'
