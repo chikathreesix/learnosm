@@ -2,7 +2,7 @@
 layout: contribute
 permalink: "/ja/contribute/"
 lang: ja
-title: お手伝い
+title: 貢献
 contributetitle: このガイドの改善にご協力ください！
 startwith: 参加方法
 startA: ご意見ご感想
